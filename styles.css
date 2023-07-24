@@ -50,6 +50,10 @@ p {
   padding: 0;
 }
 
+#maincell {
+  font-weight: bold;
+}
+
 #hero {
   background: var(--secondary-color);
   text-align: center;
